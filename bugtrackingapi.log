@@ -1,0 +1,1250 @@
+2023-06-16 09:26:11 - Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2023-06-16 09:26:11 - Stopping service [Tomcat]
+2023-06-16 09:26:11 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-06-16 09:26:11 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:26:11 - HikariPool-1 - Shutdown initiated...
+2023-06-16 09:26:11 - HikariPool-1 - Shutdown completed.
+2023-06-16 09:26:12 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 13144 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 09:26:12 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 09:26:12 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 09:26:12 - Finished Spring Data repository scanning in 13 ms. Found 1 JPA repository interfaces.
+2023-06-16 09:26:13 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 09:26:13 - Starting service [Tomcat]
+2023-06-16 09:26:13 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 09:26:13 - Initializing Spring embedded WebApplicationContext
+2023-06-16 09:26:13 - Root WebApplicationContext: initialization completed in 879 ms
+2023-06-16 09:26:13 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 09:26:13 - HikariPool-2 - Starting...
+2023-06-16 09:26:13 - HikariPool-2 - Start completed.
+2023-06-16 09:26:13 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 09:26:13 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 09:26:13 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:26:13 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 09:26:13 - LiveReload server is running on port 35729
+2023-06-16 09:26:13 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 09:26:13 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 09:26:13 - Started BugTrackerApplication in 1.622 seconds (JVM running for 10650.957)
+2023-06-16 09:26:13 - Condition evaluation unchanged
+2023-06-16 09:26:13 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 09:27:05 - Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2023-06-16 09:27:05 - Stopping service [Tomcat]
+2023-06-16 09:27:05 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:27:05 - HikariPool-2 - Shutdown initiated...
+2023-06-16 09:27:05 - HikariPool-2 - Shutdown completed.
+2023-06-16 09:27:06 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 13144 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 09:27:06 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 09:27:06 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 09:27:06 - Finished Spring Data repository scanning in 10 ms. Found 1 JPA repository interfaces.
+2023-06-16 09:27:06 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 09:27:06 - Starting service [Tomcat]
+2023-06-16 09:27:06 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 09:27:06 - Initializing Spring embedded WebApplicationContext
+2023-06-16 09:27:06 - Root WebApplicationContext: initialization completed in 529 ms
+2023-06-16 09:27:06 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 09:27:06 - HikariPool-3 - Starting...
+2023-06-16 09:27:06 - HikariPool-3 - Start completed.
+2023-06-16 09:27:06 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 09:27:06 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 09:27:06 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:27:06 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 09:27:07 - LiveReload server is running on port 35729
+2023-06-16 09:27:07 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 09:27:07 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 09:27:07 - Started BugTrackerApplication in 1.296 seconds (JVM running for 10704.367)
+2023-06-16 09:27:07 - Condition evaluation unchanged
+2023-06-16 09:27:07 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 09:30:11 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-16 09:30:11 - Initializing Servlet 'dispatcherServlet'
+2023-06-16 09:30:11 - Completed initialization in 4 ms
+2023-06-16 09:30:11 - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'status' for method parameter type String is not present]
+2023-06-16 09:30:53 - Application shutdown requested.
+2023-06-16 09:30:53 - Stopping service [Tomcat]
+2023-06-16 09:30:53 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-06-16 09:30:53 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:30:53 - HikariPool-3 - Shutdown initiated...
+2023-06-16 09:30:53 - HikariPool-3 - Shutdown completed.
+2023-06-16 09:31:06 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20912 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 09:31:06 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 09:31:06 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-06-16 09:31:06 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-06-16 09:31:08 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 09:31:08 - Finished Spring Data repository scanning in 61 ms. Found 1 JPA repository interfaces.
+2023-06-16 09:31:09 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 09:31:09 - Starting service [Tomcat]
+2023-06-16 09:31:09 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 09:31:09 - Initializing Spring embedded WebApplicationContext
+2023-06-16 09:31:09 - Root WebApplicationContext: initialization completed in 2904 ms
+2023-06-16 09:31:10 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 09:31:10 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-06-16 09:31:10 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-16 09:31:11 - HikariPool-1 - Starting...
+2023-06-16 09:31:11 - HikariPool-1 - Start completed.
+2023-06-16 09:31:11 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 09:31:13 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 09:31:13 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:31:13 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 09:31:14 - LiveReload server is running on port 35729
+2023-06-16 09:31:14 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 09:31:14 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 09:31:14 - Started BugTrackerApplication in 8.749 seconds (JVM running for 10.436)
+2023-06-16 09:31:15 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 09:31:17 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-16 09:31:17 - Initializing Servlet 'dispatcherServlet'
+2023-06-16 09:31:17 - Completed initialization in 2 ms
+2023-06-16 09:31:27 - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'status' for method parameter type String is not present]
+2023-06-16 09:34:25 - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'status' for method parameter type String is not present]
+2023-06-16 09:35:23 - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'status' for method parameter type String is not present]
+2023-06-16 09:41:09 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-06-16 09:41:09 - Stopping service [Tomcat]
+2023-06-16 09:41:09 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-06-16 09:41:09 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:41:09 - HikariPool-1 - Shutdown initiated...
+2023-06-16 09:41:09 - HikariPool-1 - Shutdown completed.
+2023-06-16 09:41:09 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20912 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 09:41:09 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 09:41:09 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 09:41:09 - Finished Spring Data repository scanning in 10 ms. Found 1 JPA repository interfaces.
+2023-06-16 09:41:09 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 09:41:09 - Starting service [Tomcat]
+2023-06-16 09:41:09 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 09:41:09 - Initializing Spring embedded WebApplicationContext
+2023-06-16 09:41:09 - Root WebApplicationContext: initialization completed in 674 ms
+2023-06-16 09:41:10 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 09:41:10 - HikariPool-2 - Starting...
+2023-06-16 09:41:10 - HikariPool-2 - Start completed.
+2023-06-16 09:41:10 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 09:41:10 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 09:41:10 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:41:10 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 09:41:10 - LiveReload server is running on port 35729
+2023-06-16 09:41:10 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 09:41:10 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 09:41:10 - Started BugTrackerApplication in 1.468 seconds (JVM running for 606.188)
+2023-06-16 09:41:10 - Condition evaluation unchanged
+2023-06-16 09:41:10 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 09:41:19 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-16 09:41:19 - Initializing Servlet 'dispatcherServlet'
+2023-06-16 09:41:19 - Completed initialization in 1 ms
+2023-06-16 09:41:19 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: 
+	The method setStatus(String) in the type BugVO is not applicable for the arguments (Map<String,String>)
+] with root cause
+java.lang.Error: Unresolved compilation problem: 
+	The method setStatus(String) in the type BugVO is not applicable for the arguments (Map<String,String>)
+
+	at com.bugtracker.controller.BugController.updateBugStatus(BugController.java:193) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.27.jar:5.3.27]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.27.jar:5.3.27]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.27.jar:5.3.27]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.27.jar:5.3.27]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.27.jar:5.3.27]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.27.jar:5.3.27]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072) ~[spring-webmvc-5.3.27.jar:5.3.27]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.27.jar:5.3.27]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.27.jar:5.3.27]
+	at org.springframework.web.servlet.FrameworkServlet.doPut(FrameworkServlet.java:920) ~[spring-webmvc-5.3.27.jar:5.3.27]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:558) ~[tomcat-embed-core-9.0.75.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.27.jar:5.3.27]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[tomcat-embed-core-9.0.75.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-9.0.75.jar:9.0.75]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.27.jar:5.3.27]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.27.jar:5.3.27]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.27.jar:5.3.27]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.27.jar:5.3.27]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96) ~[spring-boot-actuator-2.7.12.jar:2.7.12]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.27.jar:5.3.27]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.27.jar:5.3.27]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.27.jar:5.3.27]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.75.jar:9.0.75]
+	at java.base/java.lang.Thread.run(Thread.java:831) ~[na:na]
+2023-06-16 09:43:49 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-06-16 09:43:49 - Stopping service [Tomcat]
+2023-06-16 09:43:49 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-06-16 09:43:49 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:43:49 - HikariPool-2 - Shutdown initiated...
+2023-06-16 09:43:49 - HikariPool-2 - Shutdown completed.
+2023-06-16 09:43:49 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20912 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 09:43:49 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 09:43:49 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 09:43:49 - Finished Spring Data repository scanning in 10 ms. Found 1 JPA repository interfaces.
+2023-06-16 09:43:49 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 09:43:49 - Starting service [Tomcat]
+2023-06-16 09:43:49 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 09:43:49 - Initializing Spring embedded WebApplicationContext
+2023-06-16 09:43:49 - Root WebApplicationContext: initialization completed in 509 ms
+2023-06-16 09:43:50 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 09:43:50 - HikariPool-3 - Starting...
+2023-06-16 09:43:50 - HikariPool-3 - Start completed.
+2023-06-16 09:43:50 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 09:43:50 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 09:43:50 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:43:50 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 09:43:50 - LiveReload server is running on port 35729
+2023-06-16 09:43:50 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 09:43:50 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 09:43:50 - Started BugTrackerApplication in 1.156 seconds (JVM running for 766.014)
+2023-06-16 09:43:50 - Condition evaluation unchanged
+2023-06-16 09:43:50 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 09:43:57 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-16 09:43:57 - Initializing Servlet 'dispatcherServlet'
+2023-06-16 09:43:57 - Completed initialization in 1 ms
+2023-06-16 09:43:57 - Inside BugController.updateBugStatus for bug ID: 8 and new status: {
+    "status": "closed"
+}
+2023-06-16 09:43:57 - Inside BugServiceImpl findById method ...
+2023-06-16 09:43:57 - Fetching an bug response : Optional[BugEntity(id=8, name=exception handling, type=medium, assignedTo=Aysha, createdOn=2023-06-15, createdBy=Aparna, status=in-progress, description=exception handling method not defined)]
+2023-06-16 09:43:57 - Inside BugServiceImpl.updateBugStatus for bug ID: 8 and new status: {
+    "status": "closed"
+}
+2023-06-16 09:43:57 - Bug status updated successfully. Bug ID: 8, New Status: {
+    "status": "closed"
+}
+2023-06-16 09:43:57 - Bug status updated successfully. Bug ID: 8, New Status: {
+    "status": "closed"
+}
+2023-06-16 09:56:27 - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-06-16 09:56:27 - Stopping service [Tomcat]
+2023-06-16 09:56:27 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-06-16 09:56:27 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:56:27 - HikariPool-3 - Shutdown initiated...
+2023-06-16 09:56:27 - HikariPool-3 - Shutdown completed.
+2023-06-16 09:56:27 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20912 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 09:56:27 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 09:56:28 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 09:56:28 - Finished Spring Data repository scanning in 12 ms. Found 1 JPA repository interfaces.
+2023-06-16 09:56:28 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 09:56:28 - Starting service [Tomcat]
+2023-06-16 09:56:28 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 09:56:28 - Initializing Spring embedded WebApplicationContext
+2023-06-16 09:56:28 - Root WebApplicationContext: initialization completed in 651 ms
+2023-06-16 09:56:28 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 09:56:28 - HikariPool-4 - Starting...
+2023-06-16 09:56:28 - HikariPool-4 - Start completed.
+2023-06-16 09:56:28 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 09:56:28 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 09:56:28 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 09:56:28 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 09:56:28 - LiveReload server is running on port 35729
+2023-06-16 09:56:28 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 09:56:28 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 09:56:28 - Started BugTrackerApplication in 1.299 seconds (JVM running for 1171.539)
+2023-06-16 09:56:28 - Condition evaluation unchanged
+2023-06-16 09:56:28 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 10:04:10 - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-06-16 10:04:10 - Stopping service [Tomcat]
+2023-06-16 10:04:10 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:04:10 - HikariPool-4 - Shutdown initiated...
+2023-06-16 10:04:10 - HikariPool-4 - Shutdown completed.
+2023-06-16 10:04:10 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20912 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:04:10 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:04:10 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:04:10 - Finished Spring Data repository scanning in 9 ms. Found 1 JPA repository interfaces.
+2023-06-16 10:04:11 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:04:11 - Starting service [Tomcat]
+2023-06-16 10:04:11 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:04:11 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:04:11 - Root WebApplicationContext: initialization completed in 513 ms
+2023-06-16 10:04:11 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:04:11 - HikariPool-5 - Starting...
+2023-06-16 10:04:11 - HikariPool-5 - Start completed.
+2023-06-16 10:04:11 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:04:11 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 10:04:11 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:04:11 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 10:04:11 - LiveReload server is running on port 35729
+2023-06-16 10:04:11 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 10:04:11 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 10:04:11 - Started BugTrackerApplication in 1.072 seconds (JVM running for 1634.227)
+2023-06-16 10:04:11 - Condition evaluation unchanged
+2023-06-16 10:04:11 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 10:12:13 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-06-16 10:12:13 - Stopping service [Tomcat]
+2023-06-16 10:12:13 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:12:13 - HikariPool-5 - Shutdown initiated...
+2023-06-16 10:12:13 - HikariPool-5 - Shutdown completed.
+2023-06-16 10:12:13 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20912 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:12:13 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:12:13 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:12:14 - Finished Spring Data repository scanning in 26 ms. Found 1 JPA repository interfaces.
+2023-06-16 10:12:14 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:12:14 - Starting service [Tomcat]
+2023-06-16 10:12:14 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:12:14 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:12:14 - Root WebApplicationContext: initialization completed in 730 ms
+2023-06-16 10:12:14 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:12:14 - HikariPool-6 - Starting...
+2023-06-16 10:12:14 - HikariPool-6 - Start completed.
+2023-06-16 10:12:14 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:12:14 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 10:12:14 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:12:14 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 10:12:14 - LiveReload server is running on port 35729
+2023-06-16 10:12:14 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 10:12:14 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 10:12:14 - Started BugTrackerApplication in 1.314 seconds (JVM running for 2117.447)
+2023-06-16 10:12:14 - Condition evaluation unchanged
+2023-06-16 10:12:14 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 10:12:19 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-06-16 10:12:19 - Stopping service [Tomcat]
+2023-06-16 10:12:19 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:12:19 - HikariPool-6 - Shutdown initiated...
+2023-06-16 10:12:19 - HikariPool-6 - Shutdown completed.
+2023-06-16 10:12:19 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20912 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:12:19 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:12:19 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:12:19 - Finished Spring Data repository scanning in 8 ms. Found 1 JPA repository interfaces.
+2023-06-16 10:12:19 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:12:19 - Starting service [Tomcat]
+2023-06-16 10:12:19 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:12:19 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:12:19 - Root WebApplicationContext: initialization completed in 507 ms
+2023-06-16 10:12:20 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:12:20 - HikariPool-7 - Starting...
+2023-06-16 10:12:20 - HikariPool-7 - Start completed.
+2023-06-16 10:12:20 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:12:20 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 10:12:20 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:12:20 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 10:12:20 - LiveReload server is running on port 35729
+2023-06-16 10:12:20 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 10:12:20 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 10:12:20 - Started BugTrackerApplication in 1.018 seconds (JVM running for 2123.06)
+2023-06-16 10:12:20 - Condition evaluation unchanged
+2023-06-16 10:12:20 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 10:13:04 - Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2023-06-16 10:13:04 - Stopping service [Tomcat]
+2023-06-16 10:13:04 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:13:04 - HikariPool-7 - Shutdown initiated...
+2023-06-16 10:13:04 - HikariPool-7 - Shutdown completed.
+2023-06-16 10:13:04 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20912 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:13:04 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:13:04 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:13:04 - Finished Spring Data repository scanning in 11 ms. Found 2 JPA repository interfaces.
+2023-06-16 10:13:04 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:13:04 - Starting service [Tomcat]
+2023-06-16 10:13:04 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:13:05 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:13:05 - Root WebApplicationContext: initialization completed in 469 ms
+2023-06-16 10:13:05 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:13:05 - HikariPool-8 - Starting...
+2023-06-16 10:13:05 - HikariPool-8 - Start completed.
+2023-06-16 10:13:05 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:13:05 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 10:13:05 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:13:05 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 10:13:05 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectRepository' defined in com.bugtracker.repository.ProjectRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bugtracker.model.Projectdto
+2023-06-16 10:13:05 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:13:05 - HikariPool-8 - Shutdown initiated...
+2023-06-16 10:13:05 - HikariPool-8 - Shutdown completed.
+2023-06-16 10:13:05 - Stopping service [Tomcat]
+2023-06-16 10:13:05 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 10:13:05 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectRepository' defined in com.bugtracker.repository.ProjectRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bugtracker.model.Projectdto
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:936) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:920) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292) ~[spring-boot-2.7.12.jar:2.7.12]
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.7.12.jar:2.7.12]
+Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.bugtracker.model.Projectdto
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:583) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.data.jpa.repository.support.JpaMetamodelEntityInformation.<init>(JpaMetamodelEntityInformation.java:75) ~[spring-data-jpa-2.7.12.jar:2.7.12]
+	at org.springframework.data.jpa.repository.support.JpaEntityInformationSupport.getEntityInformation(JpaEntityInformationSupport.java:66) ~[spring-data-jpa-2.7.12.jar:2.7.12]
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getEntityInformation(JpaRepositoryFactory.java:233) ~[spring-data-jpa-2.7.12.jar:2.7.12]
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:182) ~[spring-data-jpa-2.7.12.jar:2.7.12]
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:165) ~[spring-data-jpa-2.7.12.jar:2.7.12]
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:76) ~[spring-data-jpa-2.7.12.jar:2.7.12]
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport.getRepository(RepositoryFactorySupport.java:325) ~[spring-data-commons-2.7.12.jar:2.7.12]
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.lambda$afterPropertiesSet$5(RepositoryFactoryBeanSupport.java:323) ~[spring-data-commons-2.7.12.jar:2.7.12]
+	at org.springframework.data.util.Lazy.getNullable(Lazy.java:231) ~[spring-data-commons-2.7.12.jar:2.7.12]
+	at org.springframework.data.util.Lazy.get(Lazy.java:115) ~[spring-data-commons-2.7.12.jar:2.7.12]
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.afterPropertiesSet(RepositoryFactoryBeanSupport.java:329) ~[spring-data-commons-2.7.12.jar:2.7.12]
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactoryBean.afterPropertiesSet(JpaRepositoryFactoryBean.java:144) ~[spring-data-jpa-2.7.12.jar:2.7.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.27.jar:5.3.27]
+	... 21 common frames omitted
+2023-06-16 10:13:33 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 6468 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:13:33 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:13:33 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-06-16 10:13:33 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-06-16 10:13:34 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:13:35 - Finished Spring Data repository scanning in 63 ms. Found 2 JPA repository interfaces.
+2023-06-16 10:13:35 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:13:35 - Starting service [Tomcat]
+2023-06-16 10:13:35 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:13:36 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:13:36 - Root WebApplicationContext: initialization completed in 2250 ms
+2023-06-16 10:13:36 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:13:36 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-06-16 10:13:36 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-16 10:13:36 - HikariPool-1 - Starting...
+2023-06-16 10:13:37 - HikariPool-1 - Start completed.
+2023-06-16 10:13:37 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:13:38 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 10:13:38 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:13:38 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 10:13:39 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectRepository' defined in com.bugtracker.repository.ProjectRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bugtracker.model.Projectdto
+2023-06-16 10:13:39 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:13:39 - HikariPool-1 - Shutdown initiated...
+2023-06-16 10:13:39 - HikariPool-1 - Shutdown completed.
+2023-06-16 10:13:39 - Stopping service [Tomcat]
+2023-06-16 10:13:39 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 10:13:39 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectRepository' defined in com.bugtracker.repository.ProjectRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bugtracker.model.Projectdto
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:936)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:920)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.bugtracker.model.Projectdto
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:583)
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85)
+	at org.springframework.data.jpa.repository.support.JpaMetamodelEntityInformation.<init>(JpaMetamodelEntityInformation.java:75)
+	at org.springframework.data.jpa.repository.support.JpaEntityInformationSupport.getEntityInformation(JpaEntityInformationSupport.java:66)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getEntityInformation(JpaRepositoryFactory.java:233)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:182)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:165)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:76)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport.getRepository(RepositoryFactorySupport.java:325)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.lambda$afterPropertiesSet$5(RepositoryFactoryBeanSupport.java:323)
+	at org.springframework.data.util.Lazy.getNullable(Lazy.java:231)
+	at org.springframework.data.util.Lazy.get(Lazy.java:115)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.afterPropertiesSet(RepositoryFactoryBeanSupport.java:329)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactoryBean.afterPropertiesSet(JpaRepositoryFactoryBean.java:144)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 21 common frames omitted
+2023-06-16 10:14:08 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 13416 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:14:08 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:14:08 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-06-16 10:14:08 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-06-16 10:14:10 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:14:10 - Finished Spring Data repository scanning in 57 ms. Found 2 JPA repository interfaces.
+2023-06-16 10:14:10 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:14:10 - Starting service [Tomcat]
+2023-06-16 10:14:10 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:14:11 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:14:11 - Root WebApplicationContext: initialization completed in 2156 ms
+2023-06-16 10:14:11 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:14:11 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-06-16 10:14:11 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-16 10:14:11 - HikariPool-1 - Starting...
+2023-06-16 10:14:12 - HikariPool-1 - Start completed.
+2023-06-16 10:14:12 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:14:13 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 10:14:13 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:14:14 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 10:14:14 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectRepository' defined in com.bugtracker.repository.ProjectRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bugtracker.model.Projectdto
+2023-06-16 10:14:14 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:14:14 - HikariPool-1 - Shutdown initiated...
+2023-06-16 10:14:14 - HikariPool-1 - Shutdown completed.
+2023-06-16 10:14:14 - Stopping service [Tomcat]
+2023-06-16 10:14:14 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 10:14:14 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectRepository' defined in com.bugtracker.repository.ProjectRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.bugtracker.model.Projectdto
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:936)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:920)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.bugtracker.model.Projectdto
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:583)
+	at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85)
+	at org.springframework.data.jpa.repository.support.JpaMetamodelEntityInformation.<init>(JpaMetamodelEntityInformation.java:75)
+	at org.springframework.data.jpa.repository.support.JpaEntityInformationSupport.getEntityInformation(JpaEntityInformationSupport.java:66)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getEntityInformation(JpaRepositoryFactory.java:233)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:182)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:165)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactory.getTargetRepository(JpaRepositoryFactory.java:76)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport.getRepository(RepositoryFactorySupport.java:325)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.lambda$afterPropertiesSet$5(RepositoryFactoryBeanSupport.java:323)
+	at org.springframework.data.util.Lazy.getNullable(Lazy.java:231)
+	at org.springframework.data.util.Lazy.get(Lazy.java:115)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.afterPropertiesSet(RepositoryFactoryBeanSupport.java:329)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactoryBean.afterPropertiesSet(JpaRepositoryFactoryBean.java:144)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 21 common frames omitted
+2023-06-16 10:14:39 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20156 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:14:39 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:14:39 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-06-16 10:14:39 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-06-16 10:14:41 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:14:41 - Finished Spring Data repository scanning in 52 ms. Found 1 JPA repository interfaces.
+2023-06-16 10:14:41 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:14:41 - Starting service [Tomcat]
+2023-06-16 10:14:41 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:14:42 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:14:42 - Root WebApplicationContext: initialization completed in 2171 ms
+2023-06-16 10:14:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:14:42 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-06-16 10:14:42 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-16 10:14:42 - HikariPool-1 - Starting...
+2023-06-16 10:14:43 - HikariPool-1 - Start completed.
+2023-06-16 10:14:43 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:14:44 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 10:14:44 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:14:45 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 10:14:46 - LiveReload server is running on port 35729
+2023-06-16 10:14:46 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 10:14:46 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 10:14:46 - Started BugTrackerApplication in 6.843 seconds (JVM running for 7.887)
+2023-06-16 10:14:46 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 10:14:48 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-16 10:14:48 - Initializing Servlet 'dispatcherServlet'
+2023-06-16 10:14:48 - Completed initialization in 2 ms
+2023-06-16 10:14:57 - Inside BugController.updateBugStatus for bug ID: 8 and new status: closed
+2023-06-16 10:14:57 - Inside BugServiceImpl findById method ...
+2023-06-16 10:14:57 - Fetching an bug response : Optional[BugEntity(id=8, name=exception handling, type=medium, assignedTo=Aysha, createdOn=2023-06-15, createdBy=Aparna, status={
+    "status": "closed"
+}, description=exception handling method not defined)]
+2023-06-16 10:14:57 - Inside BugServiceImpl.updateBugStatus for bug ID: 8 and new status: closed
+2023-06-16 10:14:57 - Bug status updated successfully. Bug ID: 8, New Status: closed
+2023-06-16 10:14:57 - Bug status updated successfully. Bug ID: 8, New Status: closed
+2023-06-16 10:24:59 - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-06-16 10:24:59 - Stopping service [Tomcat]
+2023-06-16 10:24:59 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-06-16 10:24:59 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:24:59 - HikariPool-1 - Shutdown initiated...
+2023-06-16 10:24:59 - HikariPool-1 - Shutdown completed.
+2023-06-16 10:24:59 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20156 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:24:59 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:24:59 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:24:59 - Finished Spring Data repository scanning in 9 ms. Found 1 JPA repository interfaces.
+2023-06-16 10:24:59 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:24:59 - Starting service [Tomcat]
+2023-06-16 10:24:59 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:24:59 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:24:59 - Root WebApplicationContext: initialization completed in 545 ms
+2023-06-16 10:25:00 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:25:00 - HikariPool-2 - Starting...
+2023-06-16 10:25:00 - HikariPool-2 - Start completed.
+2023-06-16 10:25:00 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:25:00 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 10:25:00 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:25:00 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 10:25:00 - LiveReload server is running on port 35729
+2023-06-16 10:25:00 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 10:25:00 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 10:25:00 - Started BugTrackerApplication in 1.2 seconds (JVM running for 622.328)
+2023-06-16 10:25:00 - Condition evaluation unchanged
+2023-06-16 10:25:00 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 10:26:38 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-06-16 10:26:38 - Stopping service [Tomcat]
+2023-06-16 10:26:38 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 10:26:38 - HikariPool-2 - Shutdown initiated...
+2023-06-16 10:26:38 - HikariPool-2 - Shutdown completed.
+2023-06-16 10:26:38 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20156 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:26:38 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:26:38 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:26:38 - Finished Spring Data repository scanning in 9 ms. Found 1 JPA repository interfaces.
+2023-06-16 10:26:38 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:26:38 - Starting service [Tomcat]
+2023-06-16 10:26:38 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:26:38 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:26:38 - Root WebApplicationContext: initialization completed in 502 ms
+2023-06-16 10:26:38 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:26:38 - HikariPool-3 - Starting...
+2023-06-16 10:26:39 - HikariPool-3 - Start completed.
+2023-06-16 10:26:39 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:26:39 - Failed to initialize JPA EntityManagerFactory: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+2023-06-16 10:26:39 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+2023-06-16 10:26:39 - HikariPool-3 - Shutdown initiated...
+2023-06-16 10:26:39 - HikariPool-3 - Shutdown completed.
+2023-06-16 10:26:39 - Stopping service [Tomcat]
+2023-06-16 10:26:39 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 10:26:39 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1156) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:910) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292) ~[spring-boot-2.7.12.jar:2.7.12]
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.7.12.jar:2.7.12]
+Caused by: org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:266) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:772) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:225) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1460) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1494) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.27.jar:5.3.27]
+	... 21 common frames omitted
+2023-06-16 10:26:59 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20156 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:26:59 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:27:00 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:27:00 - Finished Spring Data repository scanning in 9 ms. Found 1 JPA repository interfaces.
+2023-06-16 10:27:00 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:27:00 - Starting service [Tomcat]
+2023-06-16 10:27:00 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:27:00 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:27:00 - Root WebApplicationContext: initialization completed in 523 ms
+2023-06-16 10:27:00 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:27:00 - HikariPool-4 - Starting...
+2023-06-16 10:27:00 - HikariPool-4 - Start completed.
+2023-06-16 10:27:00 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:27:00 - Failed to initialize JPA EntityManagerFactory: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+2023-06-16 10:27:00 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+2023-06-16 10:27:00 - HikariPool-4 - Shutdown initiated...
+2023-06-16 10:27:00 - HikariPool-4 - Shutdown completed.
+2023-06-16 10:27:00 - Stopping service [Tomcat]
+2023-06-16 10:27:00 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 10:27:00 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1156) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:910) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292) ~[spring-boot-2.7.12.jar:2.7.12]
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.7.12.jar:2.7.12]
+Caused by: org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:266) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:772) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:225) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1460) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1494) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.27.jar:5.3.27]
+	... 21 common frames omitted
+2023-06-16 10:27:53 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20156 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:27:53 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:27:53 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:27:53 - Finished Spring Data repository scanning in 11 ms. Found 2 JPA repository interfaces.
+2023-06-16 10:27:54 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:27:54 - Starting service [Tomcat]
+2023-06-16 10:27:54 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:27:54 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:27:54 - Root WebApplicationContext: initialization completed in 527 ms
+2023-06-16 10:27:54 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:27:54 - HikariPool-5 - Starting...
+2023-06-16 10:27:54 - HikariPool-5 - Start completed.
+2023-06-16 10:27:54 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:27:54 - Failed to initialize JPA EntityManagerFactory: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+2023-06-16 10:27:54 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+2023-06-16 10:27:54 - HikariPool-5 - Shutdown initiated...
+2023-06-16 10:27:54 - HikariPool-5 - Shutdown completed.
+2023-06-16 10:27:54 - Stopping service [Tomcat]
+2023-06-16 10:27:54 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 10:27:54 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1156) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:910) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292) ~[spring-boot-2.7.12.jar:2.7.12]
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.7.12.jar:2.7.12]
+Caused by: org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:266) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:772) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:225) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1460) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1494) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.27.jar:5.3.27]
+	... 21 common frames omitted
+2023-06-16 10:36:38 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20156 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 10:36:38 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 10:36:38 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 10:36:38 - Finished Spring Data repository scanning in 10 ms. Found 2 JPA repository interfaces.
+2023-06-16 10:36:39 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 10:36:39 - Starting service [Tomcat]
+2023-06-16 10:36:39 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 10:36:39 - Initializing Spring embedded WebApplicationContext
+2023-06-16 10:36:39 - Root WebApplicationContext: initialization completed in 488 ms
+2023-06-16 10:36:39 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 10:36:39 - HikariPool-6 - Starting...
+2023-06-16 10:36:39 - HikariPool-6 - Start completed.
+2023-06-16 10:36:39 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 10:36:39 - Failed to initialize JPA EntityManagerFactory: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+2023-06-16 10:36:39 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+2023-06-16 10:36:39 - HikariPool-6 - Shutdown initiated...
+2023-06-16 10:36:39 - HikariPool-6 - Shutdown completed.
+2023-06-16 10:36:39 - Stopping service [Tomcat]
+2023-06-16 10:36:39 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 10:36:39 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1156) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:910) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292) ~[spring-boot-2.7.12.jar:2.7.12]
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.7.12.jar:2.7.12]
+Caused by: org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.ProjectEntity
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:266) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:772) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:225) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1460) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1494) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.27.jar:5.3.27]
+	... 21 common frames omitted
+2023-06-16 12:19:09 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20156 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 12:19:09 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:19:09 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 12:19:09 - Finished Spring Data repository scanning in 14 ms. Found 2 JPA repository interfaces.
+2023-06-16 12:19:09 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 12:19:09 - Starting service [Tomcat]
+2023-06-16 12:19:09 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 12:19:09 - Initializing Spring embedded WebApplicationContext
+2023-06-16 12:19:09 - Root WebApplicationContext: initialization completed in 533 ms
+2023-06-16 12:19:09 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 12:19:09 - HikariPool-7 - Starting...
+2023-06-16 12:19:09 - HikariPool-7 - Start completed.
+2023-06-16 12:19:09 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 12:19:09 - Failed to initialize JPA EntityManagerFactory: No identifier specified for entity: com.bugtracker.entity.Project
+2023-06-16 12:19:09 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+2023-06-16 12:19:09 - HikariPool-7 - Shutdown initiated...
+2023-06-16 12:19:09 - HikariPool-7 - Shutdown completed.
+2023-06-16 12:19:09 - Stopping service [Tomcat]
+2023-06-16 12:19:09 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 12:19:09 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1156) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:910) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292) ~[spring-boot-2.7.12.jar:2.7.12]
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.7.12.jar:2.7.12]
+Caused by: org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:266) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:772) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:225) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1460) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1494) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.27.jar:5.3.27]
+	... 21 common frames omitted
+2023-06-16 12:21:43 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20156 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 12:21:43 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:21:44 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 12:21:44 - Finished Spring Data repository scanning in 12 ms. Found 2 JPA repository interfaces.
+2023-06-16 12:21:44 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 12:21:44 - Starting service [Tomcat]
+2023-06-16 12:21:44 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 12:21:44 - Initializing Spring embedded WebApplicationContext
+2023-06-16 12:21:44 - Root WebApplicationContext: initialization completed in 519 ms
+2023-06-16 12:21:44 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 12:21:44 - HikariPool-8 - Starting...
+2023-06-16 12:21:44 - HikariPool-8 - Start completed.
+2023-06-16 12:21:44 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 12:21:44 - Failed to initialize JPA EntityManagerFactory: No identifier specified for entity: com.bugtracker.entity.Project
+2023-06-16 12:21:44 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+2023-06-16 12:21:44 - HikariPool-8 - Shutdown initiated...
+2023-06-16 12:21:44 - HikariPool-8 - Shutdown completed.
+2023-06-16 12:21:44 - Stopping service [Tomcat]
+2023-06-16 12:21:44 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 12:21:44 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1156) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:910) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292) ~[spring-boot-2.7.12.jar:2.7.12]
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.7.12.jar:2.7.12]
+Caused by: org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:266) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:772) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:225) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1460) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1494) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.27.jar:5.3.27]
+	... 21 common frames omitted
+2023-06-16 12:29:00 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 20156 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 12:29:00 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:29:00 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 12:29:00 - Finished Spring Data repository scanning in 9 ms. Found 2 JPA repository interfaces.
+2023-06-16 12:29:01 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 12:29:01 - Starting service [Tomcat]
+2023-06-16 12:29:01 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 12:29:01 - Initializing Spring embedded WebApplicationContext
+2023-06-16 12:29:01 - Root WebApplicationContext: initialization completed in 434 ms
+2023-06-16 12:29:01 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 12:29:01 - HikariPool-9 - Starting...
+2023-06-16 12:29:01 - HikariPool-9 - Start completed.
+2023-06-16 12:29:01 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 12:29:01 - Failed to initialize JPA EntityManagerFactory: No identifier specified for entity: com.bugtracker.entity.Project
+2023-06-16 12:29:01 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+2023-06-16 12:29:01 - HikariPool-9 - Shutdown initiated...
+2023-06-16 12:29:01 - HikariPool-9 - Shutdown completed.
+2023-06-16 12:29:01 - Stopping service [Tomcat]
+2023-06-16 12:29:01 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 12:29:01 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1156) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:910) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.27.jar:5.3.27]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303) ~[spring-boot-2.7.12.jar:2.7.12]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292) ~[spring-boot-2.7.12.jar:2.7.12]
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.7.12.jar:2.7.12]
+Caused by: org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:266) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:772) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:225) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1460) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1494) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.27.jar:5.3.27]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.27.jar:5.3.27]
+	... 21 common frames omitted
+2023-06-16 12:34:33 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 17860 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 12:34:33 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:34:33 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-06-16 12:34:33 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-06-16 12:34:34 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 12:34:34 - Finished Spring Data repository scanning in 52 ms. Found 2 JPA repository interfaces.
+2023-06-16 12:34:35 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 12:34:35 - Starting service [Tomcat]
+2023-06-16 12:34:35 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 12:34:35 - Initializing Spring embedded WebApplicationContext
+2023-06-16 12:34:35 - Root WebApplicationContext: initialization completed in 2066 ms
+2023-06-16 12:34:35 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 12:34:35 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-06-16 12:34:36 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-16 12:34:36 - HikariPool-1 - Starting...
+2023-06-16 12:34:36 - HikariPool-1 - Start completed.
+2023-06-16 12:34:36 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 12:34:36 - Failed to initialize JPA EntityManagerFactory: No identifier specified for entity: com.bugtracker.entity.Project
+2023-06-16 12:34:36 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+2023-06-16 12:34:36 - HikariPool-1 - Shutdown initiated...
+2023-06-16 12:34:36 - HikariPool-1 - Shutdown completed.
+2023-06-16 12:34:36 - Stopping service [Tomcat]
+2023-06-16 12:34:37 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 12:34:37 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1156)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:910)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:266)
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211)
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:772)
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:225)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1460)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1494)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 21 common frames omitted
+2023-06-16 12:37:35 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 12060 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 12:37:35 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:37:35 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-06-16 12:37:35 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-06-16 12:37:37 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 12:37:37 - Finished Spring Data repository scanning in 51 ms. Found 2 JPA repository interfaces.
+2023-06-16 12:37:37 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 12:37:37 - Starting service [Tomcat]
+2023-06-16 12:37:37 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 12:37:37 - Initializing Spring embedded WebApplicationContext
+2023-06-16 12:37:37 - Root WebApplicationContext: initialization completed in 2026 ms
+2023-06-16 12:37:38 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 12:37:38 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-06-16 12:37:38 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-16 12:37:38 - HikariPool-1 - Starting...
+2023-06-16 12:37:39 - HikariPool-1 - Start completed.
+2023-06-16 12:37:39 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 12:37:39 - Failed to initialize JPA EntityManagerFactory: No identifier specified for entity: com.bugtracker.entity.Project
+2023-06-16 12:37:39 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+2023-06-16 12:37:39 - HikariPool-1 - Shutdown initiated...
+2023-06-16 12:37:39 - HikariPool-1 - Shutdown completed.
+2023-06-16 12:37:39 - Stopping service [Tomcat]
+2023-06-16 12:37:39 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-06-16 12:37:39 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1156)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:910)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.bugtracker.BugTrackerApplication.main(BugTrackerApplication.java:15)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.hibernate.AnnotationException: No identifier specified for entity: com.bugtracker.entity.Project
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:266)
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211)
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:772)
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:225)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1460)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1494)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 21 common frames omitted
+2023-06-16 12:40:32 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 8728 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 12:40:32 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:40:32 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-06-16 12:40:32 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-06-16 12:40:33 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 12:40:33 - Finished Spring Data repository scanning in 51 ms. Found 2 JPA repository interfaces.
+2023-06-16 12:40:33 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 12:40:34 - Starting service [Tomcat]
+2023-06-16 12:40:34 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 12:40:34 - Initializing Spring embedded WebApplicationContext
+2023-06-16 12:40:34 - Root WebApplicationContext: initialization completed in 2025 ms
+2023-06-16 12:40:34 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 12:40:34 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-06-16 12:40:34 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-16 12:40:34 - HikariPool-1 - Starting...
+2023-06-16 12:40:35 - HikariPool-1 - Start completed.
+2023-06-16 12:40:35 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 12:40:36 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 12:40:36 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 12:40:37 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 12:40:37 - LiveReload server is running on port 35729
+2023-06-16 12:40:37 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 12:40:37 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 12:40:38 - Started BugTrackerApplication in 6.521 seconds (JVM running for 7.523)
+2023-06-16 12:40:38 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 12:40:39 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-16 12:40:39 - Initializing Servlet 'dispatcherServlet'
+2023-06-16 12:40:39 - Completed initialization in 1 ms
+2023-06-16 12:54:41 - Application shutdown requested.
+2023-06-16 12:54:41 - Stopping service [Tomcat]
+2023-06-16 12:54:41 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-06-16 12:54:41 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 12:54:41 - HikariPool-1 - Shutdown initiated...
+2023-06-16 12:54:41 - HikariPool-1 - Shutdown completed.
+2023-06-16 12:54:48 - Starting BugTrackerApplication using Java 16.0.2 on f6a464e5861d5c3 with PID 22956 (D:\Bug-Project\Bug-Tracker\target\classes started by Administrator in D:\Bug-Project\Bug-Tracker)
+2023-06-16 12:54:48 - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:54:48 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-06-16 12:54:48 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-06-16 12:54:49 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-06-16 12:54:49 - Finished Spring Data repository scanning in 60 ms. Found 2 JPA repository interfaces.
+2023-06-16 12:54:50 - Tomcat initialized with port(s): 8085 (http)
+2023-06-16 12:54:50 - Starting service [Tomcat]
+2023-06-16 12:54:50 - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-06-16 12:54:50 - Initializing Spring embedded WebApplicationContext
+2023-06-16 12:54:50 - Root WebApplicationContext: initialization completed in 2086 ms
+2023-06-16 12:54:51 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-06-16 12:54:51 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-06-16 12:54:51 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-06-16 12:54:51 - HikariPool-1 - Starting...
+2023-06-16 12:54:51 - HikariPool-1 - Start completed.
+2023-06-16 12:54:51 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-06-16 12:54:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-06-16 12:54:52 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-06-16 12:54:53 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-16 12:54:54 - LiveReload server is running on port 35729
+2023-06-16 12:54:54 - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-06-16 12:54:54 - Tomcat started on port(s): 8085 (http) with context path ''
+2023-06-16 12:54:54 - Started BugTrackerApplication in 6.283 seconds (JVM running for 7.254)
+2023-06-16 12:54:54 - BUG-TRACKING APPLICATION IS RUNNING NOW !!!
+2023-06-16 12:54:54 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-16 12:54:54 - Initializing Servlet 'dispatcherServlet'
+2023-06-16 12:54:54 - Completed initialization in 1 ms
